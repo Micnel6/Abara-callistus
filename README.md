@@ -2,6 +2,7 @@
 
 ### Educaion
 industrial physics, Bsc
+
 Information Technology, Centria University Of Applied Sciences
 
 ### Work Experience
